@@ -26,3 +26,6 @@
 
 ### 🏆 Trophies
 ![Trophy](https://github-profile-trophy.vercel.app/?username=mahawarritik3-byte)
+
+
+![snake](https://raw.githubusercontent.com/mahawarritik3-byte/mahawarritik3-byte/output/github-contribution-grid-snake.svg)
