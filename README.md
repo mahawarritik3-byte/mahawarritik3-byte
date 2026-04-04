@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-- 🚀 Passionate CS student from India 🇮🇳  
+- 🚀 Passionate CS student from SKIT Jaipur  
 - 💻 Exploring the world of Artificial Intelligence & Machine Learning  
 - 🧠 Currently learning Data Structures & Algorithms  
 - ⚡ Solving problems daily on LeetCode to improve logical thinking  
