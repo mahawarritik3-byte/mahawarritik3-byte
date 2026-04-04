@@ -4,9 +4,11 @@
 ---
 
 ### 🚀 About Me
-- 🎓 CS Student from India 🇮🇳
-- 💻 Interested in Web Dev & AI
-- 🌱 Currently learning Next.js & ML
+- 🚀 Passionate CS student from India 🇮🇳  
+- 💻 Exploring the world of Artificial Intelligence & Machine Learning  
+- 🧠 Currently learning Data Structures & Algorithms  
+- ⚡ Solving problems daily on LeetCode to improve logical thinking  
+- 🎯 Focused on building strong fundamentals and real-world skills
 
 ---
 
