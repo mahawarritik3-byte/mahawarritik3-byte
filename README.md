@@ -13,7 +13,6 @@
 ---
 
 ### 🛠️ Tech Stack
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge)
