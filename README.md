@@ -1,61 +1,91 @@
-<h1 align="center">Hi 👋, I'm Ritik</h1>
-<h3 align="center">CS Student | Web Developer 🚀</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Ritik+Mahawar;CS+Student+%7C+Web+Developer;MERN+Stack+Enthusiast+🚀" />
+</h1>
+
+<h3 align="center">💻 Turning Ideas into Reality with Code</h3>
 
 ---
 
-### 🚀 About Me
-- 🚀 Passionate CS student from SKIT Jaipur  
-- 💻 Exploring the world of Artificial Intelligence & Machine Learning  
-- 🧠 Currently learning Data Structures & Algorithms  
-- ⚡ Solving problems daily on LeetCode to improve logical thinking  
-- 🎯 Focused on building strong fundamentals and real-world skills
+## 🚀 About Me
+
+* 🎓 CS Student at **SKIT Jaipur**
+* 💻 Passionate about **Web Development & AI/ML**
+* 🧠 Currently learning **Data Structures & Algorithms**
+* 🔥 Daily problem solving on **LeetCode**
+* 🎯 Goal: Become a **Top Software Engineer**
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### 💻 Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 💻 Languages
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,js" />
+</p>
 
-#### 🌐 MERN Stack + Web Tech
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### 🌐 Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,bootstrap,tailwind" />
+</p>
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+### 🧠 AI / ML
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
 
-
----
-
-#### 🧠 Python Libraries
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn" />
+</p>
 
 ---
 
-#### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+## ⚙️ Tools & Platforms
 
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-### 🔥 Streak
-![Streak](https://streak-stats.demolab.com/?user=mahawarritik3-byte&theme=radical)
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahawarritik3-byte&show_icons=true&theme=radical" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mahawarritik3-byte&theme=radical" />
+</p>
+
+---
+
+## 🌟 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahawarritik3-byte&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/mahawarritik3-byte">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+⭐ **"Code. Learn. Build. Repeat."** ⭐
