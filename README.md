@@ -60,23 +60,15 @@
 ### 🔥 Streak
 ![Streak](https://streak-stats.demolab.com/?user=mahawarritik3-byte&theme=radical)
 
----
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mahawarritik3-byte&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
---- 
-
 ## 🤝 Connect With Me
-
----
 
 <p align="center">
   <a href="https://github.com/mahawarritik3-byte">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
-
----
 
 ⭐ **"Code. Learn. Build. Repeat."** ⭐
