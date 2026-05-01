@@ -62,7 +62,16 @@
 
 ---
 
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mahawarritik3-byte&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/mahawarritik3-byte/mahawarritik3-byte/blob/output/github-contribution-grid-snake.svg)
 ## 🤝 Connect With Me
+
+---
 
 <p align="center">
   <a href="https://github.com/mahawarritik3-byte">
