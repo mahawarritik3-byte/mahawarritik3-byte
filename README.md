@@ -129,7 +129,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=FF00FF&center=true&vCenter=true&width=800&lines=⭐+Code.+Learn.+Build.+Repeat.+⭐;Consistency+is+the+key+to+success.;Every+expert+was+once+a+beginner." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=⭐+Code.+Learn.+Build.+Repeat.+⭐" />
 
 </div>
 
