@@ -93,11 +93,14 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mahawarritik3-byte&show_icons=true&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=mahawarritik3-byte&show_icons=true&theme=radical&hide_border=true" alt="Ritik's GitHub Stats" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahawarritik3-byte&layout=compact&theme=radical&hide_border=true" />
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahawarritik3-byte&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
 
 </div>
+
 
 ---
 
