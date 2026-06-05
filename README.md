@@ -86,14 +86,15 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
 
-  <a href="YOUR_LINKEDIN_PROFILE_LINK">
-    <img src="https://www.linkedin.com/in/ritik-mahawar-b313a6282/" />
+  <a href="https://www.linkedin.com/in/ritik-mahawar-b313a6282/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="ritikportfolio-beta.vercel.app" />
+  <a href="https://ritikportfolio-beta.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
