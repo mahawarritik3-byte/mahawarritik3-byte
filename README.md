@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20👋,%20I'm%20Ritik&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=CS+Student+%7C+Web+Developer+🚀;DSA+Learner+%7C+AI%2FML+Explorer;LeetCode+Daily+Practice;Code.+Learn.+Build.+Repeat." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=CS+Student+%7C+Web+Developer+🚀;DSA+Learner+%7C+AI%2FML+Explorer;MERN+Stack+Developer;Code.+Learn.+Build.+Repeat." />
 
 </div>
 
