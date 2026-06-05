@@ -87,11 +87,11 @@
   </a>
 
   <a href="YOUR_LINKEDIN_PROFILE_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://www.linkedin.com/in/ritik-mahawar-b313a6282/" />
   </a>
 
   <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="ritikportfolio-beta.vercel.app" />
   </a>
 </p>
 
