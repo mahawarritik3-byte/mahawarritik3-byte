@@ -69,11 +69,11 @@
 
 ---
 
-### 🔥 Streak
+### 🔥 GitHub Streak
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com/?user=mahawarritik3-byte\&theme=radical\&hide_border=true)
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=mahawarritik3-byte&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
