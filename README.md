@@ -1,211 +1,74 @@
-<div align="center">
-
-# 👋 Hi, I'm Ritik Mahawar
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;DSA+%7C+Web+Development+%7C+Open+Source;LeetCode+%7C+CodeChef+%7C+GFG;Always+Learning+Something+New+🚀" />
-
-</div>
+<h1 align="center">Hi 👋, I'm Ritik</h1>
+<h3 align="center">CS Student | Web Developer 🚀</h3>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-## 🚀 About Me
-
-- 🎓 B.Tech CSE Student at **SKIT Jaipur**
-- 💻 Passionate about **DSA, Web Development and Open Source**
-- 🌱 Currently learning **C++, DSA, React, PHP, MySQL and AI Tools**
-- 🧠 Solving problems on **LeetCode, CodeChef and GFG**
-- 🔥 Goal: To become a strong **Software Developer**
-- 📫 Email: **your-email@gmail.com**
-- ⚡ Motto: **Consistency beats motivation**
-
-<br>
+### 🚀 About Me
+- 🚀 Passionate CS student from SKIT Jaipur  
+- 💻 Exploring the world of Artificial Intelligence & Machine Learning  
+- 🧠 Currently learning Data Structures & Algorithms  
+- ⚡ Solving problems daily on LeetCode to improve logical thinking  
+- 🎯 Focused on building strong fundamentals and real-world skills
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-<div align="center">
-
-### 💻 Languages  
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,php" />
-
-### ⚙️ Frameworks & Tools  
-<img src="https://skillicons.dev/icons?i=react,nodejs,git,github,vscode,vercel,mysql" />
-
-</div>
+#### 💻 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## 🌟 Featured Projects
+#### 🌐 MERN Stack + Web Tech
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-<div align="center">
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-<table>
-<tr>
-<td width="50%">
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
-### 📄 Resume Analyzer
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-An AI-based resume analyzer that checks resumes and gives improvement suggestions.
-
-**Tech Stack:**  
-`Python` `FastAPI` `React` `Vercel` `Render`
-
-🔗 **Live Demo:** Add your link  
-📂 **GitHub Repo:** Add your link  
-
-</td>
-<td width="50%">
-
-### 📬 Newsletter System
-
-A complete newsletter subscription system with OTP verification, admin dashboard and unsubscribe feature.
-
-**Tech Stack:**  
-`PHP` `MySQL` `PHPMailer` `Bootstrap`
-
-🔗 **Live Demo:** Add your link  
-📂 **GitHub Repo:** Add your link  
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🎮 GameZone
-
-A simple and interactive gaming website made using frontend technologies.
-
-**Tech Stack:**  
-`HTML` `CSS` `JavaScript`
-
-🔗 **Live Demo:** Add your link  
-📂 **GitHub Repo:** Add your link  
-
-</td>
-<td width="50%">
-
-### 🌐 Portfolio Website
-
-My personal portfolio website to showcase my skills, projects and achievements.
-
-**Tech Stack:**  
-`React` `CSS` `Vercel`
-
-🔗 **Live Demo:** Add your link  
-📂 **GitHub Repo:** Add your link  
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mahawarritik3-byte&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahawarritik3-byte&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahawarritik3-byte&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+#### 🧠 Python Libraries
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 
 ---
+
+#### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+
+
+### 🔥 Streak
+![Streak](https://streak-stats.demolab.com/?user=mahawarritik3-byte&theme=radical)
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mahawarritik3-byte&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="center">
+## 🤝 Connect With Me
 
-<img src="https://github-profile-trophy.vercel.app/?username=mahawarritik3-byte&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+<p align="center">
+  <a href="https://github.com/mahawarritik3-byte">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mahawarritik3-byte/mahawarritik3-byte/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-## 👨‍💻 Coding Profiles
-
-<div align="center">
-
-<a href="YOUR_LEETCODE_PROFILE_LINK">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<a href="YOUR_CODECHEF_PROFILE_LINK">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-
-<a href="YOUR_GFG_PROFILE_LINK">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="YOUR_LINKEDIN_PROFILE_LINK">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="YOUR_PORTFOLIO_LINK">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="mailto:your-email@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## 📈 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=mahawarritik3-byte&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ Quote
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=FF00FF&center=true&vCenter=true&width=800&lines=Consistency+is+the+key+to+success.;Code.+Learn.+Build.+Repeat.;Every+expert+was+once+a+beginner." />
-
-</div>
-
----
-
-<div align="center">
-
-## ❤️ Thanks for visiting my profile
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-
-</div>
+⭐ **"Code. Learn. Build. Repeat."** ⭐
