@@ -1,74 +1,116 @@
-<h1 align="center">Hi 👋, I'm Ritik</h1>
-<h3 align="center">CS Student | Web Developer 🚀</h3>
+<h1 align="center">Hi 👋, I'm Ritik Mahawar</h1>
+<h3 align="center">A passionate Computer Science student from India 🇮🇳</h3>
 
 ---
 
-### 🚀 About Me
-- 🚀 Passionate CS student from SKIT Jaipur  
-- 💻 Exploring the world of Artificial Intelligence & Machine Learning  
-- 🧠 Currently learning Data Structures & Algorithms  
-- ⚡ Solving problems daily on LeetCode to improve logical thinking  
-- 🎯 Focused on building strong fundamentals and real-world skills
+## 🚀 About Me
+
+- 🎓 B.Tech CSE Student at **SKIT Jaipur**
+- 💻 I love solving **DSA problems** on LeetCode, CodeChef and GFG
+- 🌱 Currently learning **Data Structures & Algorithms, Web Development and AI tools**
+- 🔥 Interested in **Open Source, Competitive Programming and Software Development**
+- 📫 Reach me at: **your-email@gmail.com**
+- ⚡ Fun fact: I believe consistency beats motivation 🚀
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### 💻 Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" />
+</p>
 
----
-
-#### 🌐 MERN Stack + Web Tech
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
+### Tools & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,git,github,vscode,vercel" />
+</p>
 
 ---
 
-#### 🧠 Python Libraries
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+## 📌 Featured Projects
+
+### 🔹 Resume Analyzer
+An AI-based resume analysis tool that checks resumes and gives improvement suggestions.
+
+**Tech Used:** Python, FastAPI, React, Vercel, Render  
+🔗 Live Demo: `Add your demo link here`  
+📂 GitHub Repo: `Add your repo link here`
 
 ---
 
-#### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+### 🔹 Newsletter Subscription System
+A PHP-based newsletter system with admin dashboard, email subscription, OTP verification and unsubscribe feature.
 
+**Tech Used:** PHP, MySQL, PHPMailer, Bootstrap  
+🔗 Live Demo: `Add your demo link here`  
+📂 GitHub Repo: `Add your repo link here`
 
-### 🔥 Streak
-![Streak](https://streak-stats.demolab.com/?user=mahawarritik3-byte&theme=radical)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mahawarritik3-byte&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 🔹 GameZone
+A simple and interactive gaming website.
 
-## 🤝 Connect With Me
+**Tech Used:** HTML, CSS, JavaScript  
+🔗 Live Demo: `Add your demo link here`  
+📂 GitHub Repo: `Add your repo link here`
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/mahawarritik3-byte">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahawarritik3-byte&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahawarritik3-byte&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahawarritik3-byte&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 Coding Profiles
+
+<p>
+  <a href="YOUR_LEETCODE_PROFILE_LINK">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="YOUR_CODECHEF_PROFILE_LINK">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="YOUR_GFG_PROFILE_LINK">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
 
-⭐ **"Code. Learn. Build. Repeat."** ⭐
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="YOUR_LINKEDIN_PROFILE_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ✨ Quote
+
+<p align="center">
+  <b>"Consistency is the key to becoming better every single day."</b>
+</p>
+
+---
+
+<h3 align="center">Thanks for visiting my profile ❤️</h3>
