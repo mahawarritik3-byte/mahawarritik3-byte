@@ -79,11 +79,11 @@
 
 ---
 
-## 🏆 GitHub Trophies
+### 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mahawarritik3-byte&theme=radical&no-frame=true&no-bg=false&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+<img src="https://streak-stats.demolab.com?user=mahawarritik3-byte&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
