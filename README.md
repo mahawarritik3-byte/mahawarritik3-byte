@@ -93,7 +93,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mahawarritik3-byte&show_icons=true&theme=radical&hide_border=true" alt="Ritik's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=mahawarritik3-byte&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Ritik's GitHub Stats" />
 
 <br><br>
 
