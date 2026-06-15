@@ -118,13 +118,13 @@ ritik mahaawarrr
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pushpendrraa&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=mahawarritik3-byte&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pushpendrraa&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahawarritik3-byte&theme=tokyonight" />
 </p>
 
 ---
 
-### <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pushpendrraa&theme=tokyonight"/> <br>
+### <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahawarritik3-byte&theme=tokyonight"/> <br>
