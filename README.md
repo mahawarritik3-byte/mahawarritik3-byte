@@ -84,11 +84,11 @@
 
 ---
 
+### 📊 Contribution Graph
 ### <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahawarritik3-byte&theme=tokyonight"/> <br>
 
 ---
 
-### 📊 Contribution Graph
 ## 🤝 Connect With Me
 
 <p align="center">
