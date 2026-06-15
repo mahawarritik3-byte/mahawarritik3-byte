@@ -89,6 +89,13 @@
 
 ---
 
+---
+
+Day wise contributions 
+![snake gif](https://github.com/pushpendrraa/mahawarritik3-byte/blob/output/github-snake-dark.svg)
+
+---
+
 ### 🤝 Connect With Me
 
 <p align="center">
@@ -124,8 +131,3 @@
 </div>
 
 </div>
-djvbdbfjk
-
-
-Day wise contributions 
-![snake gif](https://github.com/pushpendrraa/pushpendrraa/blob/output/github-snake-dark.svg)
