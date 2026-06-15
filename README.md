@@ -71,12 +71,6 @@
 
 ### 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=mahawarritik3-byte&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahawarritik3-byte&theme=tokyonight" />
 </p>
