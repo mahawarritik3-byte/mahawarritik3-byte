@@ -89,7 +89,7 @@
 
 ---
 
-## 🤝 Connect With Me
+### 🤝 Connect With Me
 
 <p align="center">
   <a href="https://github.com/mahawarritik3-byte">
@@ -108,6 +108,7 @@
 
 ---
 
+### 👀 Profile Views
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=mahawarritik3-byte&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
