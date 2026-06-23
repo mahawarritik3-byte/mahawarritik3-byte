@@ -84,6 +84,18 @@
 
 ---
 
+---
+
+## 📊 Most Used Languages
+
+<div align="center">
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahawarritik3-byte&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
 ### 📊 Contribution Graph
 
 <p align="center">
