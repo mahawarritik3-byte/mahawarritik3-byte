@@ -80,7 +80,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahawarritik3-byte&show_icons=true&theme=tokyonight&hide_border=true" alt="Ritik Mahawar GitHub Stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mahawarritik3-byte&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+    alt="Ritik Mahawar GitHub Stats" 
+  />
 </p>
 
 ---
@@ -88,9 +91,11 @@
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahawarritik3-byte&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahawarritik3-byte&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+    alt="Most Used Languages" 
+  />
 </p>
-
 ---
 
 ### 📊 Contribution Graph
