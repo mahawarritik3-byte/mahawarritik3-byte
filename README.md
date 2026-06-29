@@ -78,10 +78,13 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mahawarritik3-byte&show_icons=true&theme=tokyonight" />
-</p>
 
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mahawarritik3-byte&amp;show_icons=true&amp;theme=tokyonight" 
+    alt="Ritik Mahawar GitHub Stats" 
+  />
+</p>
 ---
 
 
